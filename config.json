@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "exceptionalCharacters": [
+            "Please.Heal.Me",
+            "Evoken"
+        ]
+    }
+}

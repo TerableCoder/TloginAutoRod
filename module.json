@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "TerableLogin",
+    "author": "Terablecoder",
+    "homepage": "https://github.com/TerableCoder/TerableLogin",
+    "description": "Automatically login to the same character every time.",
+    "version": "1",
+    "options": {
+        "settingsVersion": 1,
+        "settingsFile": "config.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/TerableLogin/master/"]
+}
